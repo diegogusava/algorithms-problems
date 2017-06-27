@@ -1,4 +1,4 @@
-package br.com.diegogusava.algorithms.problems;
+package br.com.diegogusava.algorithms.problems.recursion;
 
 public class Factorial {
 

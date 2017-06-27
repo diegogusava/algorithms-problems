@@ -2,7 +2,7 @@ package br.com.diegogusava.algorithms.problems;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import br.com.diegogusava.algorithms.problems.recursion.TowerHanoi;
 
 public class TowerHanoiTest {
 
